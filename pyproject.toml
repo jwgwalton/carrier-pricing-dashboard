@@ -1,5 +1,5 @@
 [project]
-name = "freight-logistics-dashboard"
+name = "carrier-pricing-dashboard"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
